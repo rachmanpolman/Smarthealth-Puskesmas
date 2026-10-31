@@ -11,11 +11,22 @@
 
 ---
 
-## 📸 Tampilan Antarmuka (Preview)
+## 📸 Tampilan Antarmuka Aplikasi (Screenshots)
 
-| Dashboard Utama | Peta & Navigasi GPS | Reservasi & QR Antrean | Scan Verifikasi |
+### 1. Autentikasi & Beranda Utama
+| Layar Masuk / Login | Beranda & Layanan Cepat | Pengaturan Akun & Faskes |
+|:---:|:---:|:---:|
+| <img src="screenshots/login.jpeg" width="220" alt="Layar Login Puskesmas Peduli"/> | <img src="screenshots/dashboard.jpeg" width="220" alt="Dashboard Utama"/> | <img src="screenshots/pengaturaan.jpeg" width="220" alt="Pengaturan Akun"/> |
+
+### 2. Katalog Dokter & Alur Reservasi Antrean
+| Daftar Dokter Spesialis | Detail Dokter & Jadwal | Riwayat Tiket Pasien | Kode QR Antrean Digital |
 |:---:|:---:|:---:|:---:|
-| Menu layanan cepat, info kontak darurat, dan profil pasien | OpenStreetMap interaktif, garis rute OSRM, dan kalkulasi jarak KM | Tiket digital berkode QR dinamis sesuai jadwal dokter | Scanner kamera native loket medis untuk validasi tiket |
+| <img src="screenshots/daftardokter.jpeg" width="185" alt="Daftar Dokter"/> | <img src="screenshots/detaildokter.jpeg" width="185" alt="Detail Dokter"/> | <img src="screenshots/reservasi.jpeg" width="185" alt="Form Reservasi"/> | <img src="screenshots/qrcode.jpeg" width="185" alt="Tiket QR Code"/> |
+
+### 3. Peta Navigasi GPS & Pemindai QR Loket
+| Peta & Garis Rute (OSM & OSRM) | Pemindai Kamera Loket | Validasi Hasil Scan Tiket |
+|:---:|:---:|:---:|
+| <img src="screenshots/maps.jpeg" width="220" alt="Peta dan Navigasi GPS"/> | <img src="screenshots/scan_qr.jpeg" width="220" alt="Scanner Kamera Loket"/> | <img src="screenshots/hasil_scan.jpeg" width="220" alt="Verifikasi Tiket Reservasi"/> |
 
 ---
 
