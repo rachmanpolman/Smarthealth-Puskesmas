@@ -168,7 +168,7 @@ lib/
 
 ### 2. Kloning Repositori
 ```bash
-git clone https://github.com/USERNAME_ANDA/smarthealth-puskesmas.git
+git clone https://github.com/rachmanpolman/Smarthealth-Puskesmas.git
 cd smarthealth-puskesmas/flutter_application_1
 ```
 
